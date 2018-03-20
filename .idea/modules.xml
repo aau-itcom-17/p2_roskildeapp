@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/p2_ros_app/p2_ros_app.iml" filepath="$PROJECT_DIR$/p2_ros_app/p2_ros_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p2_ros_app/p2_ros_app_android.iml" filepath="$PROJECT_DIR$/p2_ros_app/p2_ros_app_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/p2_roskildeapp.iml" filepath="$PROJECT_DIR$/.idea/p2_roskildeapp.iml" />
+    </modules>
+  </component>
+</project>
