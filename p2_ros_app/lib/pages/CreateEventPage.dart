@@ -1,15 +1,15 @@
 import 'package:flutter/material.dart';
-import './main.dart';
+import '../main.dart';
 
-class Events extends StatelessWidget {
+class CreateEvent extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return new Scaffold(
         appBar: new AppBar(
-            title: new Text("List"), backgroundColor: roskildeOrange),
+            title: new Text("Create"), backgroundColor: roskildeOrange),
         body: new Container(
           child: new Center(
-              child: new Icon(Icons.list, size: 150.0, color: Colors.black)),
+              child: new Icon(Icons.add, size: 150.0, color: Colors.black)),
         ));
   }
 }

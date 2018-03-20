@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import './MapPage.dart' as first;
-import './EventsPage.dart' as second;
-import './MyEventsPage.dart' as third;
-import './CreateEventPage.dart' as fourth;
+import 'package:p2_ros_app/pages/MapPage.dart' as first;
+import 'package:p2_ros_app/pages/EventsPage.dart' as second;
+import 'package:p2_ros_app/pages/MyEventsPage.dart' as third;
+import 'package:p2_ros_app/pages/CreateEventPage.dart' as fourth;
 
 Color roskildeOrange = const Color.fromARGB(255, 255, 115, 0);
 
