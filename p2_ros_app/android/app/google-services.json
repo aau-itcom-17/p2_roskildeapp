@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "606474941309",
+    "firebase_url": "https://p2-roskildeapp.firebaseio.com",
+    "project_id": "p2-roskildeapp",
+    "storage_bucket": "p2-roskildeapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606474941309:android:a6543453c0192d71",
+        "android_client_info": {
+          "package_name": "com.yourcompany.p2rosapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "606474941309-rg8dlfvp9o19nnqnojplra4th3783qs9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9-vE0YORlcrz1bjywHnO2fAXlX4Nu35Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
